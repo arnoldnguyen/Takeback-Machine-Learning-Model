@@ -8,4 +8,4 @@ With the rise of inflation and also the creation of new organizations on Rutgers
 
 A large issue with club funding is that clubs tend to overrequest -- around 30% of funding disappears because clubs overrequest, do not use that money, and the money is returned back into Rutgers, effectively disappearing. This is valuable information because if there is a way to minimize overrequests, we can effectively increase club funding without having to increase the student organization budget, thus affecting student tuition.
 
-This project serves to minimize takeback costs, allowing for more dynamic caps that will allow for more efficient and effective funding on Rutgers University New Brunswick Campus.
+This project serves to minimize takeback costs, allowing for more dynamic caps that will allow for more efficient and effective funding on Rutgers University New Brunswick Campus. While it is impossible to prevent overrequesting as a whole, minimizing overrequests will allow more clubs to get the funding they need.
