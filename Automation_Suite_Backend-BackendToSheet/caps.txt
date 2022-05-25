@@ -1,0 +1,4 @@
+caps for Room Rental - programming stand alone: [150.0, 310.0, 490.0, 680.0, 880.0]
+caps for Advertising - programming stand alone: [40.0, 90.0, 160.0, 250.0, 350.0]
+caps for Food - programming stand alone: [550.0, 980.0, 1350.0, 1630.0, 1850.0]
+caps for Supplies/Decorations - programming stand alone: [110.0, 230.0, 360.0, 500.0, 660.0]
